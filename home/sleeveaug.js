@@ -1,4 +1,4 @@
-import { fixMainFunction, asyncMap, asyncFilter } from "ramlib.js";
+import { fixMainFunction, asyncMap, asyncFilter } from "./ramlib.js";
 export async function main(ns) {
   ns.ramOverride(8.2);
 }

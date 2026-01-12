@@ -1,4 +1,4 @@
-import { fixMainFunction } from "ramlib.js"
+import { fixMainFunction } from "./ramlib.js"
 export function main(ns) {
   ns.ramOverride(9.2);
 }

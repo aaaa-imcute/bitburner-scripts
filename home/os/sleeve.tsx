@@ -1,4 +1,4 @@
-import { dynamicExport, NSLike } from "os/os.tsx";
+import { dynamicExport, NSLike } from "./os.tsx";
 
 //https://github.com/bitburner-official/bitburner-src/pull/2165
 // type testType = Omit<typeof BladeburnerSkillName, "BladesIntuition" | "Cloak" | "ShortCircuit">;

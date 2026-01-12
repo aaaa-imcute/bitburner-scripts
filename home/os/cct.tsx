@@ -1,5 +1,5 @@
-import { dynamicExport, NSLike } from "os/os.tsx";
-import { cctSolutions } from "os/cctSolutions.tsx";
+import { dynamicExport, NSLike } from "./os.tsx";
+import { cctSolutions } from "./cctSolutions.tsx";
 
 function typeCorrectEntries<T extends Object>(obj: T): Array<[keyof T, T[keyof T]]> {
   //ts isn't smart enough to figure out you can use the first item

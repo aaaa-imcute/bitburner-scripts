@@ -1,4 +1,4 @@
-import { fixMainFunction } from "ramlib.js";
+import { fixMainFunction } from "./ramlib.js";
 /** @param {NS} ns */
 async function maybeInstallBackdoor(ns, target, maxTime) {
   let s = await ns.getServer(target);

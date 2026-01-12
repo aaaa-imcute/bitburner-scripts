@@ -1,4 +1,4 @@
-import { Textbox, TextboxState } from "Textbox.jsx";
+import { Textbox, TextboxState } from "./Textbox.jsx";
 function transpose(obj) {
   let out = {};
   for (let [key, values] of Object.entries(obj)) {

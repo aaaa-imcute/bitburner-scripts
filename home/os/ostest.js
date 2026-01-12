@@ -1,4 +1,4 @@
-import { dynamicExport } from "os/os.tsx";
+import { dynamicExport } from "./os.tsx";
 
 /** @param {NS} ns */
 async function payload(ns) {

@@ -1,4 +1,4 @@
-import { dynamicExport, NSLike } from "os/os.tsx";
+import { dynamicExport, NSLike } from "./os.tsx";
 
 function assertDefined<T>(x: T): asserts x is NonNullable<T> {
   if (x == null) throw new Error("unexpected undefined");

@@ -142,7 +142,7 @@ export async function asyncFilter(arr, fun) {
   let l = await asyncMap(arr, fun);
   return arr.filter((_, i) => l[i]);
 }
-import { getAllServers } from "scanlib.js";
+import { getAllServers } from "./scanlib.js";
 /** 
  * Initializes ram dodging files, so obviously you must run this first.
  * This is so we don't have to ns.fileExists and other stuff on the fly (which costs ram)
