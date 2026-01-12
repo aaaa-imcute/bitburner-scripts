@@ -1,0 +1,28 @@
+Find All Valid Math Expressions: 12.514k microseconds
+Compression III: LZ Compression: 140.819 microseconds
+Square Root: 108.030 microseconds
+Algorithmic Stock Trader II: 11.372 microseconds
+Find Largest Prime Factor: 9.710 microseconds
+Sanitize Parentheses in Expression: 8.884 microseconds
+Shortest Path in a Grid: 8.498 microseconds
+Algorithmic Stock Trader IV: 5.619 microseconds
+Total Ways to Sum: 4.647 microseconds
+Algorithmic Stock Trader III: 4.091 microseconds
+HammingCodes: Encoded Binary to Integer: 3.281 microseconds
+Proper 2-Coloring of a Graph: 3.107 microseconds
+Algorithmic Stock Trader I: 3.082 microseconds
+Compression II: LZ Decompression: 2.711 microseconds
+HammingCodes: Integer to Encoded Binary: 2.595 microseconds
+Total Ways to Sum II: 2.233 microseconds
+Subarray with Maximum Sum: 1.770 microseconds
+Merge Overlapping Intervals: 1.596 microseconds
+Generate IP Addresses: 1.514 microseconds
+Unique Paths in a Grid I: 1.178 microseconds
+Unique Paths in a Grid II: 1.165 microseconds
+Compression I: RLE Compression: 1.146 microseconds
+Array Jumping Game: 0.981 microseconds
+Spiralize Matrix: 0.946 microseconds
+Encryption II: Vigenère Cipher: 0.946 microseconds
+Encryption I: Caesar Cipher: 0.881 microseconds
+Array Jumping Game II: 0.866 microseconds
+Minimum Path Sum in a Triangle: 0.493 microseconds
